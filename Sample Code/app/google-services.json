@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "207912644938",
+    "firebase_url": "https://sampledji-c1abb.firebaseio.com",
+    "project_id": "sampledji-c1abb",
+    "storage_bucket": "sampledji-c1abb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207912644938:android:b74adc4e7bfcccef",
+        "android_client_info": {
+          "package_name": "com.dji.sdk.sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207912644938-tv48v0dm4rsbeobpras5nk6krh9eghqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ1Hf8P2H2Fmy7bVMXdHz4AoXKkgUme48"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
